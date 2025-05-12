@@ -1,0 +1,6 @@
+{
+  "apiUser": "YOUR_API_USERNAME",
+  "apiKey": "YOUR_API_KEY",
+  "clientIp": "YOUR_CLIENT_IP",
+  "useSandbox": true
+} 
