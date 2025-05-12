@@ -1,0 +1,1397 @@
+{
+  "tlds": [
+    {
+      "name": "com",
+      "server": "whois.verisign-grs.com",
+      "availablePattern": "No match for",
+      "enabled": true,
+      "displayName": ".com"
+    },
+    {
+      "name": "edu",
+      "server": "whois.verisign-grs.com",
+      "availablePattern": "No match for",
+      "enabled": true,
+      "displayName": ".edu"
+    },
+    {
+      "name": "net",
+      "server": "whois.verisign-grs.com",
+      "availablePattern": "No match for",
+      "enabled": true,
+      "displayName": ".net"
+    },
+    {
+      "name": "ae",
+      "server": "whois.aeda.net.ae",
+      "availablePattern": "No Data Found",
+      "enabled": true,
+      "displayName": ".ae"
+    },
+    {
+      "name": "af",
+      "server": "whois.nic.af",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".af"
+    },
+    {
+      "name": "ag",
+      "server": "whois.nic.ag",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".ag"
+    },
+    {
+      "name": "am",
+      "server": "whois.amnic.net",
+      "availablePattern": "o match",
+      "enabled": true,
+      "displayName": ".am"
+    },
+    {
+      "name": "as",
+      "server": "whois.nic.as",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".as"
+    },
+    {
+      "name": "at",
+      "server": "whois.nic.at",
+      "availablePattern": "othing found",
+      "enabled": true,
+      "displayName": ".at"
+    },
+    {
+      "name": "au",
+      "server": "whois.audns.net.au",
+      "availablePattern": "No Data Found",
+      "enabled": true,
+      "displayName": ".au"
+    },
+    {
+      "name": "be",
+      "server": "whois.dns.be",
+      "availablePattern": "AVAILABLE",
+      "enabled": true,
+      "displayName": ".be"
+    },
+    {
+      "name": "ai",
+      "server": "whois.ai",
+      "availablePattern": "not registered",
+      "enabled": true,
+      "displayName": ".ai"
+    },
+    {
+      "name": "ar",
+      "server": "whois.nic.ar",
+      "availablePattern": "dominio no se",
+      "enabled": true,
+      "displayName": ".ar"
+    },
+    {
+      "name": "aw",
+      "server": "whois.nic.aw",
+      "availablePattern": "is free",
+      "enabled": true,
+      "displayName": ".aw"
+    },
+    {
+      "name": "ax",
+      "server": "whois.ax",
+      "availablePattern": "Domain not found",
+      "enabled": true,
+      "displayName": ".ax"
+    },
+    {
+      "name": "bg",
+      "server": "whois.register.bg",
+      "availablePattern": "does not exist in database",
+      "enabled": true,
+      "displayName": ".bg"
+    },
+    {
+      "name": "bi",
+      "server": "whois1.nic.bi",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".bi"
+    },
+    {
+      "name": "bingo",
+      "server": "whois.donuts.co",
+      "availablePattern": "Domain not found",
+      "enabled": true,
+      "displayName": ".bingo"
+    },
+    {
+      "name": "bio",
+      "server": "whois.ksregistry.net",
+      "availablePattern": "bject does not exist",
+      "enabled": true,
+      "displayName": ".bio"
+    },
+    {
+      "name": "biz",
+      "server": "whois.nic.biz",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".biz"
+    },
+    {
+      "name": "bj",
+      "server": "whois.nic.bj",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".bj"
+    },
+    {
+      "name": "bn",
+      "server": "whois.bnnic.bn",
+      "availablePattern": "Domain Not Found",
+      "enabled": true,
+      "displayName": ".bn"
+    },
+    {
+      "name": "br",
+      "server": "whois.nic.br",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".br"
+    },
+    {
+      "name": "buy",
+      "server": "whois.afilias-srs.net",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".buy"
+    },
+    {
+      "name": "buzz",
+      "server": "whois.nic.buzz",
+      "availablePattern": "vailable",
+      "enabled": true,
+      "displayName": ".buzz"
+    },
+    {
+      "name": "bw",
+      "server": "whois.nic.net.bw",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".bw"
+    },
+    {
+      "name": "bz",
+      "server": "whois.afilias-grs.info",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".bz"
+    },
+    {
+      "name": "ca",
+      "server": "whois.cira.ca",
+      "availablePattern": "available",
+      "enabled": true,
+      "displayName": ".ca"
+    },
+    {
+      "name": "cat",
+      "server": "whois.nic.cat",
+      "availablePattern": "o match",
+      "enabled": true,
+      "displayName": ".cat"
+    },
+    {
+      "name": "cc",
+      "server": "ccwhois.verisign-grs.com",
+      "availablePattern": "No match for",
+      "enabled": true,
+      "displayName": ".cc"
+    },
+    {
+      "name": "cd",
+      "server": "whois.nic.cd",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".cd"
+    },
+    {
+      "name": "cf",
+      "server": "whois.dot.cf",
+      "availablePattern": "not known",
+      "enabled": true,
+      "displayName": ".cf"
+    },
+    {
+      "name": "ci",
+      "server": "whois.nic.ci",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ci"
+    },
+    {
+      "name": "cl",
+      "server": "whois.nic.cl",
+      "availablePattern": "no existe",
+      "enabled": true,
+      "displayName": ".cl"
+    },
+    {
+      "name": "cm",
+      "server": "whois.netcom.cm",
+      "availablePattern": "Not Registered",
+      "enabled": true,
+      "displayName": ".cm"
+    },
+    {
+      "name": "cn",
+      "server": "whois.cnnic.net.cn",
+      "availablePattern": "No matching record",
+      "enabled": true,
+      "displayName": ".cn"
+    },
+    {
+      "name": "co",
+      "server": "whois.nic.co",
+      "availablePattern": "Not found",
+      "enabled": true,
+      "displayName": ".co"
+    },
+    {
+      "name": "cool",
+      "server": "whois.donuts.co",
+      "availablePattern": "Domain not found",
+      "enabled": true,
+      "displayName": ".cool"
+    },
+    {
+      "name": "cr",
+      "server": "whois.nic.cr",
+      "availablePattern": "No entries found",
+      "enabled": true,
+      "displayName": ".cr"
+    },
+    {
+      "name": "cx",
+      "server": "whois.nic.cx",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".cx"
+    },
+    {
+      "name": "cz",
+      "server": "whois.nic.cz",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".cz"
+    },
+    {
+      "name": "de",
+      "server": "whois.nic.de",
+      "availablePattern": "Status: free",
+      "enabled": true,
+      "displayName": ".de"
+    },
+    {
+      "name": "dk",
+      "server": "whois.dk-hostmaster.dk",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".dk"
+    },
+    {
+      "name": "dm",
+      "server": "whois.nic.dm",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".dm"
+    },
+    {
+      "name": "do",
+      "server": "whois.nic.do",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".do"
+    },
+    {
+      "name": "dog",
+      "server": "whois.donuts.co",
+      "availablePattern": "Domain not found",
+      "enabled": true,
+      "displayName": ".dog"
+    },
+    {
+      "name": "dz",
+      "server": "whois.nic.dz",
+      "availablePattern": "NO OBJECT FOUND",
+      "enabled": true,
+      "displayName": ".dz"
+    },
+    {
+      "name": "ec",
+      "server": "whois.nic.ec",
+      "availablePattern": "Not Registered",
+      "enabled": true,
+      "displayName": ".ec"
+    },
+    {
+      "name": "ee",
+      "server": "whois.eenet.ee",
+      "availablePattern": "not found",
+      "enabled": true,
+      "displayName": ".ee"
+    },
+    {
+      "name": "email",
+      "server": "whois.donuts.co",
+      "availablePattern": "Domain not found",
+      "enabled": true,
+      "displayName": ".email"
+    },
+    {
+      "name": "eu",
+      "server": "whois.eu",
+      "availablePattern": "Status: AVAILABLE",
+      "enabled": true,
+      "displayName": ".eu"
+    },
+    {
+      "name": "fi",
+      "server": "whois.fi",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".fi"
+    },
+    {
+      "name": "fj",
+      "server": "whois.usp.ac.fj",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".fj"
+    },
+    {
+      "name": "fm",
+      "server": "whois.nic.fm",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".fm"
+    },
+    {
+      "name": "fo",
+      "server": "whois.nic.fo",
+      "availablePattern": "No entries found",
+      "enabled": true,
+      "displayName": ".fo"
+    },
+    {
+      "name": "fr",
+      "server": "whois.nic.fr",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".fr"
+    },
+    {
+      "name": "gd",
+      "server": "whois.nic.gd",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".gd"
+    },
+    {
+      "name": "gg",
+      "server": "whois.gg",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".gg"
+    },
+    {
+      "name": "gi",
+      "server": "whois2.afilias-grs.net",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".gi"
+    },
+    {
+      "name": "gl",
+      "server": "whois.nic.gl",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".gl"
+    },
+    {
+      "name": "gov",
+      "server": "whois.dotgov.gov",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".gov"
+    },
+    {
+      "name": "gq",
+      "server": "whois.dominio.gq",
+      "availablePattern": "ot known",
+      "enabled": true,
+      "displayName": ".gq"
+    },
+    {
+      "name": "gs",
+      "server": "whois.nic.gs",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".gs"
+    },
+    {
+      "name": "gy",
+      "server": "whois.registry.gy",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".gy"
+    },
+    {
+      "name": "hk",
+      "server": "whois.hkirc.hk",
+      "availablePattern": "has not been registered",
+      "enabled": true,
+      "displayName": ".hk"
+    },
+    {
+      "name": "hm",
+      "server": "whois.registry.hm",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".hm"
+    },
+    {
+      "name": "hn",
+      "server": "whois.nic.hn",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".hn"
+    },
+    {
+      "name": "host",
+      "server": "whois.nic.host",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".host"
+    },
+    {
+      "name": "hr",
+      "server": "whois.dns.hr",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".hr"
+    },
+    {
+      "name": "ht",
+      "server": "whois.nic.ht",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ht"
+    },
+    {
+      "name": "hu",
+      "server": "whois.nic.hu",
+      "availablePattern": "o match",
+      "enabled": true,
+      "displayName": ".hu"
+    },
+    {
+      "name": "id",
+      "server": "whois.pandi.or.id",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".id"
+    },
+    {
+      "name": "ie",
+      "server": "whois.domainregistry.ie",
+      "availablePattern": "Not Registered",
+      "enabled": true,
+      "displayName": ".ie"
+    },
+    {
+      "name": "il",
+      "server": "whois.isoc.org.il",
+      "availablePattern": "o data was found",
+      "enabled": true,
+      "displayName": ".il"
+    },
+    {
+      "name": "im",
+      "server": "whois.nic.im",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".im"
+    },
+    {
+      "name": "in",
+      "server": "whois.inregistry.in",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".in"
+    },
+    {
+      "name": "info",
+      "server": "whois.afilias.info",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".info"
+    },
+    {
+      "name": "int",
+      "server": "whois.iana.org",
+      "availablePattern": "this server does not have",
+      "enabled": true,
+      "displayName": ".int"
+    },
+    {
+      "name": "iq",
+      "server": "whois.cmc.iq",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".iq"
+    },
+    {
+      "name": "ir",
+      "server": "whois.nic.ir",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".ir"
+    },
+    {
+      "name": "is",
+      "server": "whois.isnic.is",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".is"
+    },
+    {
+      "name": "it",
+      "server": "whois.nic.it",
+      "availablePattern": "AVAILABLE",
+      "enabled": true,
+      "displayName": ".it"
+    },
+    {
+      "name": "je",
+      "server": "whois.je",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".je"
+    },
+    {
+      "name": "jp",
+      "server": "whois.jprs.jp",
+      "availablePattern": "No match",
+      "enabled": true,
+      "displayName": ".jp"
+    },
+    {
+      "name": "ke",
+      "server": "whois.kenic.or.ke",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ke"
+    },
+    {
+      "name": "kg",
+      "server": "whois.domain.kg",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".kg"
+    },
+    {
+      "name": "ki",
+      "server": "whois.nic.ki",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ki"
+    },
+    {
+      "name": "kn",
+      "server": "whois.nic.kn",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".kn"
+    },
+    {
+      "name": "kr",
+      "server": "whois.kr",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".kr"
+    },
+    {
+      "name": "ky",
+      "server": "whois.kyregistry.ky",
+      "availablePattern": "vailable",
+      "enabled": true,
+      "displayName": ".ky"
+    },
+    {
+      "name": "kz",
+      "server": "whois.nic.kz",
+      "availablePattern": "othing found",
+      "enabled": true,
+      "displayName": ".kz"
+    },
+    {
+      "name": "la",
+      "server": "whois.nic.la",
+      "availablePattern": "DOMAIN NOT FOUND",
+      "enabled": true,
+      "displayName": ".la"
+    },
+    {
+      "name": "lc",
+      "server": "whois2.afilias-grs.net",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".lc"
+    },
+    {
+      "name": "lt",
+      "server": "whois.domreg.lt",
+      "availablePattern": "available",
+      "enabled": true,
+      "displayName": ".lt"
+    },
+    {
+      "name": "lu",
+      "server": "whois.dns.lu",
+      "availablePattern": "o such domain",
+      "enabled": true,
+      "displayName": ".lu"
+    },
+    {
+      "name": "lv",
+      "server": "whois.nic.lv",
+      "availablePattern": "free",
+      "enabled": true,
+      "displayName": ".lv"
+    },
+    {
+      "name": "ly",
+      "server": "whois.nic.ly",
+      "availablePattern": "Not found",
+      "enabled": true,
+      "displayName": ".ly"
+    },
+    {
+      "name": "ma",
+      "server": "whois.iam.net.ma",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ma"
+    },
+    {
+      "name": "md",
+      "server": "whois.nic.md",
+      "availablePattern": "No match for",
+      "enabled": true,
+      "displayName": ".md"
+    },
+    {
+      "name": "me",
+      "server": "whois.nic.me",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".me"
+    },
+    {
+      "name": "mg",
+      "server": "whois.nic.mg",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".mg"
+    },
+    {
+      "name": "mk",
+      "server": "whois.marnet.mk",
+      "availablePattern": "No entries found",
+      "enabled": true,
+      "displayName": ".mk"
+    },
+    {
+      "name": "ml",
+      "server": "whois.dot.ml",
+      "availablePattern": "ot known",
+      "enabled": true,
+      "displayName": ".ml"
+    },
+    {
+      "name": "mn",
+      "server": "whois.nic.mn",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".mn"
+    },
+    {
+      "name": "mo",
+      "server": "whois.monic.mo",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".mo"
+    },
+    {
+      "name": "mobi",
+      "server": "whois.afilias.net",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".mobi"
+    },
+    {
+      "name": "moe",
+      "server": "whois.nic.moe",
+      "availablePattern": "available",
+      "enabled": true,
+      "displayName": ".moe"
+    },
+    {
+      "name": "mom",
+      "server": "whois.uniregistry.net",
+      "availablePattern": "available",
+      "enabled": true,
+      "displayName": ".mom"
+    },
+    {
+      "name": "ms",
+      "server": "whois.nic.ms",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ms"
+    },
+    {
+      "name": "mu",
+      "server": "whois.nic.mu",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".mu"
+    },
+    {
+      "name": "mx",
+      "server": "whois.mx",
+      "availablePattern": "Object_Not_Found",
+      "enabled": true,
+      "displayName": ".mx"
+    },
+    {
+      "name": "mz",
+      "server": "whois.nic.mz",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".mz"
+    },
+    {
+      "name": "na",
+      "server": "whois.na-nic.com.na",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".na"
+    },
+    {
+      "name": "name",
+      "server": "whois.nic.name",
+      "availablePattern": "o match",
+      "enabled": true,
+      "displayName": ".name"
+    },
+    {
+      "name": "nc",
+      "server": "whois.nc",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".nc"
+    },
+    {
+      "name": "nf",
+      "server": "whois.nic.nf",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".nf"
+    },
+    {
+      "name": "ng",
+      "server": "whois.nic.net.ng",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ng"
+    },
+    {
+      "name": "nl",
+      "server": "whois.domain-registry.nl",
+      "availablePattern": "is free",
+      "enabled": true,
+      "displayName": ".nl"
+    },
+    {
+      "name": "no",
+      "server": "whois.norid.no",
+      "availablePattern": "o match",
+      "enabled": true,
+      "displayName": ".no"
+    },
+    {
+      "name": "nu",
+      "server": "whois.nic.nu",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".nu"
+    },
+    {
+      "name": "nz",
+      "server": "whois.srs.net.nz",
+      "availablePattern": "220 Available",
+      "enabled": true,
+      "displayName": ".nz"
+    },
+    {
+      "name": "co.nz",
+      "server": "whois.srs.net.nz",
+      "availablePattern": "220 Available",
+      "enabled": true,
+      "displayName": ".co.nz"
+    },
+    {
+      "name": "om",
+      "server": "whois.registry.om",
+      "availablePattern": "No Data Found",
+      "enabled": true,
+      "displayName": ".om"
+    },
+    {
+      "name": "one",
+      "server": "whois.nic.one",
+      "availablePattern": "No Data Found",
+      "enabled": true,
+      "displayName": ".one"
+    },
+    {
+      "name": "ooo",
+      "server": "whois.nic.ooo",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".ooo"
+    },
+    {
+      "name": "org",
+      "server": "whois.publicinterestregistry.net",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".org"
+    },
+    {
+      "name": "ovh",
+      "server": "whois-ovh.nic.fr",
+      "availablePattern": "bject does not exist",
+      "enabled": true,
+      "displayName": ".ovh"
+    },
+    {
+      "name": "pe",
+      "server": "kero.yachay.pe",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".pe"
+    },
+    {
+      "name": "pet",
+      "server": "whois.afilias.net",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".pet"
+    },
+    {
+      "name": "pf",
+      "server": "whois.registry.pf",
+      "availablePattern": "Domain unknown",
+      "enabled": true,
+      "displayName": ".pf"
+    },
+    {
+      "name": "pl",
+      "server": "whois.dns.pl",
+      "availablePattern": "No information available",
+      "enabled": true,
+      "displayName": ".pl"
+    },
+    {
+      "name": "pm",
+      "server": "whois.nic.pm",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".pm"
+    },
+    {
+      "name": "pr",
+      "server": "whois.nic.pr",
+      "availablePattern": "is not registered",
+      "enabled": true,
+      "displayName": ".pr"
+    },
+    {
+      "name": "pro",
+      "server": "whois.registrypro.pro",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".pro"
+    },
+    {
+      "name": "ps",
+      "server": "whois.pnina.ps",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".ps"
+    },
+    {
+      "name": "pt",
+      "server": "whois.dns.pt",
+      "availablePattern": "o match",
+      "enabled": true,
+      "displayName": ".pt"
+    },
+    {
+      "name": "pub",
+      "server": "whois.unitedtld.com",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".pub"
+    },
+    {
+      "name": "pw",
+      "server": "whois.nic.pw",
+      "availablePattern": "DOMAIN NOT FOUND",
+      "enabled": true,
+      "displayName": ".pw"
+    },
+    {
+      "name": "qa",
+      "server": "whois.registry.qa",
+      "availablePattern": "No Data Found",
+      "enabled": true,
+      "displayName": ".qa"
+    },
+    {
+      "name": "re",
+      "server": "whois.nic.re",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".re"
+    },
+    {
+      "name": "ro",
+      "server": "whois.rotld.ro",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".ro"
+    },
+    {
+      "name": "rs",
+      "server": "whois.rnids.rs",
+      "availablePattern": "is not registered",
+      "enabled": true,
+      "displayName": ".rs"
+    },
+    {
+      "name": "ru",
+      "server": "whois.tcinet.ru",
+      "availablePattern": "No entries found",
+      "enabled": true,
+      "displayName": ".ru"
+    },
+    {
+      "name": "rw",
+      "server": "whois.ricta.org.rw",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".rw"
+    },
+    {
+      "name": "sa",
+      "server": "whois.nic.net.sa",
+      "availablePattern": "No Match",
+      "enabled": true,
+      "displayName": ".sa"
+    },
+    {
+      "name": "sb",
+      "server": "whois.nic.net.sb",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".sb"
+    },
+    {
+      "name": "com.sb",
+      "server": "whois.nic.net.sb",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".com.sb"
+    },
+    {
+      "name": "se",
+      "server": "whois.nic.se",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".se"
+    },
+    {
+      "name": "sg",
+      "server": "whois.nic.net.sg",
+      "availablePattern": "Not Found",
+      "enabled": true,
+      "displayName": ".sg"
+    },
+    {
+      "name": "com.sg",
+      "server": "whois.nic.net.sg",
+      "availablePattern": "Not Found",
+      "enabled": true,
+      "displayName": ".com.sg"
+    },
+    {
+      "name": "si",
+      "server": "whois.arnes.si",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".si"
+    },
+    {
+      "name": "site",
+      "server": "whois.centralnic.com",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".site"
+    },
+    {
+      "name": "sk",
+      "server": "whois.sk-nic.sk",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".sk"
+    },
+    {
+      "name": "sl",
+      "server": "whois.nic.sl",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".sl"
+    },
+    {
+      "name": "sm",
+      "server": "whois.nic.sm",
+      "availablePattern": "No entries found",
+      "enabled": true,
+      "displayName": ".sm"
+    },
+    {
+      "name": "sn",
+      "server": "whois.nic.sn",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".sn"
+    },
+    {
+      "name": "so",
+      "server": "whois.nic.so",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".so"
+    },
+    {
+      "name": "st",
+      "server": "whois.nic.st",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".st"
+    },
+    {
+      "name": "su",
+      "server": "whois.tcinet.ru",
+      "availablePattern": "No entries found",
+      "enabled": true,
+      "displayName": ".su"
+    },
+    {
+      "name": "sx",
+      "server": "whois.sx",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".sx"
+    },
+    {
+      "name": "tc",
+      "server": "whois.nic.tc",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".tc"
+    },
+    {
+      "name": "tel",
+      "server": "whois.nic.tel",
+      "availablePattern": "No Domain",
+      "enabled": true,
+      "displayName": ".tel"
+    },
+    {
+      "name": "tf",
+      "server": "whois.nic.tf",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".tf"
+    },
+    {
+      "name": "tg",
+      "server": "whois.nic.tg",
+      "availablePattern": "NO OBJECT FOUND",
+      "enabled": true,
+      "displayName": ".tg"
+    },
+    {
+      "name": "th",
+      "server": "whois.thnic.co.th",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".th"
+    },
+    {
+      "name": "tk",
+      "server": "whois.dot.tk",
+      "availablePattern": "ot known",
+      "enabled": true,
+      "displayName": ".tk"
+    },
+    {
+      "name": "tl",
+      "server": "whois.nic.tl",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".tl"
+    },
+    {
+      "name": "tm",
+      "server": "whois.nic.tm",
+      "availablePattern": "is available",
+      "enabled": true,
+      "displayName": ".tm"
+    },
+    {
+      "name": "tn",
+      "server": "whois.ati.tn",
+      "availablePattern": "NO OBJECT FOUND",
+      "enabled": true,
+      "displayName": ".tn"
+    },
+    {
+      "name": "to",
+      "server": "whois.tonic.to",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".to"
+    },
+    {
+      "name": "top",
+      "server": "whois.nic.top",
+      "availablePattern": "bject does not exist",
+      "enabled": true,
+      "displayName": ".top"
+    },
+    {
+      "name": "tr",
+      "server": "whois.nic.tr",
+      "availablePattern": "Invalid input",
+      "enabled": true,
+      "displayName": ".tr"
+    },
+    {
+      "name": "tv",
+      "server": "tvwhois.verisign-grs.com",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".tv"
+    },
+    {
+      "name": "tw",
+      "server": "whois.twnic.net.tw",
+      "availablePattern": "No Found",
+      "enabled": true,
+      "displayName": ".tw"
+    },
+    {
+      "name": "tz",
+      "server": "whois.tznic.or.tz",
+      "availablePattern": "No entries found",
+      "enabled": true,
+      "displayName": ".tz"
+    },
+    {
+      "name": "ua",
+      "server": "whois.ua",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".ua"
+    },
+    {
+      "name": "ug",
+      "server": "whois.co.ug",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".ug"
+    },
+    {
+      "name": "uk",
+      "server": "whois.nic.uk",
+      "availablePattern": "No match",
+      "enabled": true,
+      "displayName": ".uk"
+    },
+    {
+      "name": "co.uk",
+      "server": "whois.nic.uk",
+      "availablePattern": "No match",
+      "enabled": true,
+      "displayName": ".co.uk"
+    },
+    {
+      "name": "us",
+      "server": "whois.nic.us",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".us"
+    },
+    {
+      "name": "uy",
+      "server": "whois.nic.org.uy",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".uy"
+    },
+    {
+      "name": "uz",
+      "server": "whois.cctld.uz",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".uz"
+    },
+    {
+      "name": "vc",
+      "server": "whois2.afilias-grs.net",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".vc"
+    },
+    {
+      "name": "ve",
+      "server": "whois.nic.ve",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".ve"
+    },
+    {
+      "name": "vg",
+      "server": "whois.nic.vg",
+      "availablePattern": "ot found",
+      "enabled": true,
+      "displayName": ".vg"
+    },
+    {
+      "name": "vip",
+      "server": "whois.nic.vip",
+      "availablePattern": "has not been registered",
+      "enabled": true,
+      "displayName": ".vip"
+    },
+    {
+      "name": "vu",
+      "server": "vunic.vu",
+      "availablePattern": "is not valid",
+      "enabled": true,
+      "displayName": ".vu"
+    },
+    {
+      "name": "wang",
+      "server": "whois.gtld.knet.cn",
+      "availablePattern": "bject does not exist",
+      "enabled": true,
+      "displayName": ".wang"
+    },
+    {
+      "name": "wf",
+      "server": "whois.nic.wf",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".wf"
+    },
+    {
+      "name": "wiki",
+      "server": "whois.nic.wiki",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".wiki"
+    },
+    {
+      "name": "win",
+      "server": "whois.nic.win",
+      "availablePattern": "vailable",
+      "enabled": true,
+      "displayName": ".win"
+    },
+    {
+      "name": "ws",
+      "server": "whois.website.ws",
+      "availablePattern": "o match for",
+      "enabled": true,
+      "displayName": ".ws"
+    },
+    {
+      "name": "xin",
+      "server": "whois.nic.xin",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".xin"
+    },
+    {
+      "name": "xyz",
+      "server": "whois.nic.xyz",
+      "availablePattern": "NOT FOUND",
+      "enabled": true,
+      "displayName": ".xyz"
+    },
+    {
+      "name": "yt",
+      "server": "whois.nic.yt",
+      "availablePattern": "o entries found",
+      "enabled": true,
+      "displayName": ".yt"
+    },
+    {
+      "name": "zm",
+      "server": "whois.nic.zm",
+      "availablePattern": "No Object Found",
+      "enabled": true,
+      "displayName": ".zm"
+    },
+    {
+      "name": "app",
+      "server": "whois.nic.app",
+      "availablePattern": "Domain not found",
+      "enabled": true,
+      "displayName": ".app"
+    },
+    {
+      "name": "dev",
+      "server": "whois.nic.dev",
+      "availablePattern": "Domain not found",
+      "enabled": true,
+      "displayName": ".dev"
+    },
+    {
+      "name": "io",
+      "server": "whois.nic.io",
+      "availablePattern": "is available for purchase",
+      "enabled": true,
+      "displayName": ".io"
+    }
+  ]
+}

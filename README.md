@@ -1,36 +1,103 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Domain Availability Checker
+
+A modern web application for checking domain name availability across multiple TLDs simultaneously. This project is built with Next.js and provides a user-friendly interface for domain searches.
+
+## Features
+
+- Check domain availability across multiple TLDs simultaneously
+- Enter multiple keywords separated by commas
+- Select which TLDs to check from a configurable list
+- Real-time results showing available and unavailable domains
+- Clean, responsive user interface
+
+## Technology Stack
+
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
+- **Backend**: Next.js API Routes
+- **Domain Checking**: Custom WHOIS query implementation
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
+- Node.js 18.x or later
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/domainsearch.git
+cd domainsearch
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Run the development server:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Configuration
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### TLD Configuration
 
-## Learn More
+The available TLDs are configured in the `app/config/tld-config.json` file. Each TLD entry includes:
 
-To learn more about Next.js, take a look at the following resources:
+- `name`: The TLD without the dot (e.g., "com")
+- `server`: The WHOIS server for this TLD
+- `availablePattern`: Text pattern that indicates domain availability
+- `enabled`: Boolean to enable/disable this TLD
+- `displayName`: Display name for the UI (e.g., ".com")
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Example configuration:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```json
+{
+  "tlds": [
+    {
+      "name": "com",
+      "server": "whois.verisign-grs.com",
+      "availablePattern": "No match for",
+      "enabled": true,
+      "displayName": ".com"
+    },
+    ...
+  ]
+}
+```
 
-## Deploy on Vercel
+## Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Enter one or more domain name keywords in the input field, separated by commas
+2. Select the TLDs you want to check using the checkboxes
+3. Click "Check Domain Availability"
+4. View the results, which will show available and unavailable domains
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Development
+
+### Project Structure
+
+- `app/page.tsx` - Main page component
+- `app/components/` - React components
+- `app/services/` - Domain checking service
+- `app/api/` - API routes
+- `app/config/` - Configuration files
+
+### API Endpoints
+
+- `GET /api/domain-check` - Retrieves available TLDs
+- `POST /api/domain-check` - Checks domain availability
+
+## Acknowledgments
+
+This project is based on a Node.js implementation of the original DomainMegaBot C program by HAR-KUUN (https://qing.su), but has been completely redesigned as a web application with a modern user interface.
