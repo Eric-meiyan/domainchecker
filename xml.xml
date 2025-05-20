@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ApiResponse Status="OK" xmlns="http://api.namecheap.com/xml.response">
-  <Errors />
-  <Warnings />
-  <RequestedCommand>namecheap.domains.gettldlist</RequestedCommand>
-  <CommandResponse Type="namecheap.domains.getTldList">
     <Tlds>
       <Tld Name="0db" NonRealTime="false" MinRegisterYears="1" MaxRegisterYears="10" MinRenewYears="1" MaxRenewYears="9" RenewalMinDays="0" RenewalMaxDays="4000" ReactivateMaxDays="0" MinTransferYears="1" MaxTransferYears="1" IsApiRegisterable="true" IsApiRenewable="true" IsApiTransferable="true" IsEppRequired="true" IsDisableModContact="false" IsDisableWGAllot="false" IsIncludeInExtendedSearchOnly="false" SequenceNumber="4930" Type="GTLD" SubType="" IsSupportsIDN="true" Category="P" SupportsRegistrarLock="true" AddGracePeriodDays="5" WhoisVerification="false" ProviderApiDelete="true" TldState="" SearchGroup="" Registry="">0db gTLD<Categories /></Tld>
       <Tld Name="0z" NonRealTime="false" MinRegisterYears="1" MaxRegisterYears="10" MinRenewYears="1" MaxRenewYears="9" RenewalMinDays="0" RenewalMaxDays="4000" ReactivateMaxDays="0" MinTransferYears="1" MaxTransferYears="1" IsApiRegisterable="true" IsApiRenewable="true" IsApiTransferable="true" IsEppRequired="true" IsDisableModContact="false" IsDisableWGAllot="false" IsIncludeInExtendedSearchOnly="false" SequenceNumber="4930" Type="GTLD" SubType="" IsSupportsIDN="true" Category="P" SupportsRegistrarLock="true" AddGracePeriodDays="5" WhoisVerification="false" ProviderApiDelete="true" TldState="" SearchGroup="" Registry="">0z gTLD<Categories /></Tld>
@@ -1203,8 +1198,3 @@
       <Tld Name="zx" NonRealTime="false" MinRegisterYears="1" MaxRegisterYears="10" MinRenewYears="1" MaxRenewYears="9" RenewalMinDays="0" RenewalMaxDays="4000" ReactivateMaxDays="0" MinTransferYears="1" MaxTransferYears="1" IsApiRegisterable="true" IsApiRenewable="true" IsApiTransferable="true" IsEppRequired="true" IsDisableModContact="false" IsDisableWGAllot="false" IsIncludeInExtendedSearchOnly="false" SequenceNumber="4930" Type="GTLD" SubType="" IsSupportsIDN="true" Category="P" SupportsRegistrarLock="true" AddGracePeriodDays="5" WhoisVerification="false" ProviderApiDelete="true" TldState="" SearchGroup="" Registry="">zx gTLD<Categories /></Tld>
       <Tld Name="zy" NonRealTime="false" MinRegisterYears="1" MaxRegisterYears="10" MinRenewYears="1" MaxRenewYears="9" RenewalMinDays="0" RenewalMaxDays="4000" ReactivateMaxDays="0" MinTransferYears="1" MaxTransferYears="1" IsApiRegisterable="true" IsApiRenewable="true" IsApiTransferable="true" IsEppRequired="true" IsDisableModContact="false" IsDisableWGAllot="false" IsIncludeInExtendedSearchOnly="false" SequenceNumber="4930" Type="GTLD" SubType="" IsSupportsIDN="true" Category="P" SupportsRegistrarLock="true" AddGracePeriodDays="5" WhoisVerification="false" ProviderApiDelete="true" TldState="" SearchGroup="" Registry="">zy gTLD<Categories /></Tld>
     </Tlds>
-  </CommandResponse>
-  <Server>PHX01APIEXT01</Server>
-  <GMTTimeDifference>--4:00</GMTTimeDifference>
-  <ExecutionTime>0.263</ExecutionTime>
-</ApiResponse>

@@ -98,6 +98,31 @@ Example configuration:
 - `GET /api/domain-check` - Retrieves available TLDs
 - `POST /api/domain-check` - Checks domain availability
 
+
 ## Acknowledgments
 
 This project is based on a Node.js implementation of the original DomainMegaBot C program by HAR-KUUN (https://qing.su), but has been completely redesigned as a web application with a modern user interface.
+
+## 附件：namecheap.domains.getTldList接口返回的 xml 的字段含义
+
+| Name                          | Description                                                                                                                                   |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name                          | Indicates the top-level domain                                                                                                                |
+| NonRealTimeDomain             | Possible statuses: True, False. Indicates whether the domain registration is instant (real-time) or not.                                      |
+| MinRegisterYears              | Minimum number of years the TLD can be registered for                                                                                         |
+| MaxRegisterYears              | Maximum number of years the TLD can be registered for                                                                                         |
+| MinRenewYears                 | Minimum number of years the TLD can be renewed for                                                                                            |
+| MaxRenewYears                 | Maximum number of years the TLD can be renewed for                                                                                            |
+| MinTransferYears              | Minimum number of years the TLD can be transferred for                                                                                        |
+| MaxTransferYears              | Maximum number of years the TLD can be transferred for                                                                                        |
+| IsApiRegisterable             | Indicates whether a domain with this TLD can be registered through API                                                                        |
+| IsApiRenewable                | Indicates whether a domain with this TLD can be renewed through API                                                                           |
+| IsApiTransferable             | Indicates whether a domain with this TLD can be transferred to Namecheap through API                                                          |
+| IsEppRequired                 | Indicates whether EPP code is required for this TLD                                                                                           |
+| IsDisableModContact           | Indicates whether contact details can be modified for this TLD                                                                                |
+| IsDisableWGAllot              | Indicates whether domain privacy can be allotted for this TLD. If this field result is Yes, then we will not be able to allot WG for the TLD. |
+| IsIncludeInExtendedSearchOnly | Indicates whether this TLD is shown in general search results or in extended search results only                                              |
+| SequenceNumber                | Indicates the sorting order in which TLDs are displayed on Namecheap website’s domain search results page                                     |
+| Type                          | Indicates whether this is a generic TLD or country-code TLD                                                                                   |
+| IsSupportsIDN                 | Indicates whether IDN is supported for this TLD                                                                                               |
+| Category                      | Indicates the category of the domain                                                                                                          |
